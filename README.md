@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on a Dashboarding app for EAM systems.<br>and i am working on a FMECA SaaS product.<br><br>
+I'm working on a Dashboarding app for EAM systems.
 
 
 ## 🌐 Socials:
